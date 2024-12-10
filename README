@@ -1,0 +1,26 @@
+A project designed to analyze medical reports using AI and deliver insights in a user-friendly way.
+
+# Setup Instructions
+Follow these steps to set up and run the project locally:
+
+1. Clone the Repository:
+git clone https://github.com/raghav3615/healthotech.git
+cd healthotech
+
+2. Install Dependencies
+Ensure you have Python installed. Then run:
+pip install -r requirements.txt
+
+3. Set Up Environment Variables
+Create a .env file in the root directory and add your Gemini API key:
+GEMINI_API_KEY=your_api_key_here
+
+4. Run the Application
+Start the application: python app.py
+
+# Usage
+Once the setup is complete, the application will be ready to process medical reports. Follow the on-screen instructions to upload and analyze reports.
+
+# Contributions
+Feel free to fork the repository, create a feature branch, and submit a pull request. Contributions are always welcome!
+
